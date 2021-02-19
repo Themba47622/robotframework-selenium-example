@@ -1,0 +1,6 @@
+1613374215940	geckodriver	INFO	Listening on 127.0.0.1:52290
+1613374216142	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7p/pmnc3pnx22lbd34xrd0qcpqr0000gn/T/rust_mozprofilesouZqy"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1613374221696	Marionette	INFO	Listening on port 52299
+1613374221711	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613374224271	Marionette	INFO	Stopped listening on port 52299
